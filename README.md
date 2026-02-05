@@ -6,7 +6,7 @@
 
 ##  Key Features
 
-### 🔍 Multi-Layer Anomaly Detection
+###  Multi-Layer Anomaly Detection
 The core engine (`electrical_bomb.py`) uses a weighted ensemble of detection techniques:
 1.  **Behavioral Analysis (ML):** Isolation Forest model to detect unusual consumption patterns.
 2.  **Statistical Outliers:** Z-Score analysis for extreme deviation from personal history.
